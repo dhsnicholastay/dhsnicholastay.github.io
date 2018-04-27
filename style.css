@@ -14,5 +14,6 @@ p{
 }
 
 body {
-    background-color: #33ccff;
+   background-image: url("paper.gif");
+   background-color: #cccccc;
 }
